@@ -30,6 +30,12 @@ HTML, JavaScript, SASS 등을 종합적으로 연습하기 위한 샘플 랜딩 
 5. [Unsplash](https://unsplash.com/)
 6. [Random User Generator API](https://randomuser.me)
 
+--
+
+## 내부 리소스 관련 저장소
+1. [Reset CSS](https://github.com/kty0529/Reset-CSS)
+2. [Grid-system CSS](https://github.com/kty0529/SASS-Flex-Grid)
+
 ---
 
 ## License
